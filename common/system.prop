@@ -1,0 +1,9 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+ro.product.model=Pixel XL
+ro.product.brand=Google
+ro.product.manufacturer=Google
+ro.opa.eligible_device=true
+
